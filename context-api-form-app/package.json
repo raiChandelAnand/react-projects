@@ -1,5 +1,5 @@
 {
-  "name": "password-generator-app",
+  "name": "context-api-form-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/locomotive-scroll": "^4.1.3",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
